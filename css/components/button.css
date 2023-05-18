@@ -1,0 +1,32 @@
+.btn-green, .btn-white {
+	display: inline-block;
+	margin: 5px;
+}
+
+.btn-green {
+	background-color: #7EBB91;  
+	padding: 15px 15px; 
+	border-radius: 4px; 
+	color: white;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif; 
+}
+
+.btn-green:hover {
+	background-color: #01200F; 
+	color: #7EBB91; 
+}
+
+.btn-white {
+	background-color: white;  
+	padding: 15px 15px; 
+	border-radius: 4px;  
+	color: #7EBB91;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif; 
+}
+
+.btn-white:hover {
+	background-color: #01200F; 
+	color: white; 
+}

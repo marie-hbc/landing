@@ -1,0 +1,23 @@
+.avatars {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.avatar-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin: 0 auto;
+
+.avatar {
+	margin-top: 10px; 
+	width: 100px;
+	height: 100px;
+	border-radius: 50%; 
+}
+
+.avatar p {
+	justify-content: space-around;
+}
